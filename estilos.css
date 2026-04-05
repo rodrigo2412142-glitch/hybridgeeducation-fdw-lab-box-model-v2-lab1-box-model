@@ -7,3 +7,10 @@ h1 {
   margin-left: 20px;
 }
 /* Debes crear una clase llamada mi-div */
+.mi-div {
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  margin: 30px;
+  border: 10px solid blue;
+}
