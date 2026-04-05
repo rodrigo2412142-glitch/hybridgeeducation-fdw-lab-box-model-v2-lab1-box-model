@@ -1,2 +1,9 @@
-/* Agrega tus estilos aquí */
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
 /* Debes crear una clase llamada mi-div */
